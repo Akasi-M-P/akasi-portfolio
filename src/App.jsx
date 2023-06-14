@@ -4,21 +4,20 @@ import Hero from "./Components/Hero/Hero"
 import "../src/css/Hero.css"
 import "../src/css/TechStack.css"
 import TechStackItems from "./Components/TechStack/TechStackItems"
+import About from "./About/About";
 const App = () => {
-
   return (
     <>
       <main>
         <div>
           <Navbar />
           <Hero />
-        
-            <TechStackItems />
-
+          <TechStackItems />
+          <About />
         </div>
       </main>
     </>
   );
-}
+};
 
 export default App

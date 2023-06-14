@@ -86,7 +86,7 @@
 
 .stack-container p {
     width: 70px;
-    font-size: 8px;
+    font-size: 12px;
     text-align: center;
 }
 
@@ -109,7 +109,7 @@
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         align-items: center;
-        gap: 15px;
+        gap: 20px;
 }
 
     .stack-item {
@@ -123,7 +123,7 @@
 
 .stack-container p {
     width: 100px;
-    font-size: 8px;
+    font-size: 15px;
     text-align: center;
 }
 
@@ -146,7 +146,7 @@
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         align-items: center;
-        gap: 15px;
+        gap: 20px;
 }
 
     .stack-item {
@@ -160,7 +160,7 @@
 
 .stack-container p {
     width: 100px;
-    font-size: 8px;
+    font-size: 15px;
     text-align: center;
 }
 
@@ -183,7 +183,7 @@
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         align-items: center;
-        gap: 15px;
+        gap: 20px;
 }
 
     .stack-item {
@@ -197,7 +197,7 @@
 
 .stack-container p {
     width: 100px;
-    font-size: 8px;
+    font-size: 15px;
     text-align: center;
 }
 
