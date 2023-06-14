@@ -55,7 +55,7 @@ const Hero = () => {
                   rel="noreferrer"
                   target={"_blank"}
                 >
-                  <img src="/src/assets/contact-links/github.png" alt="" />
+                  <img src="/images/contact-links/github.png" alt="" />
                 </a>
               </li>
               <li>
@@ -64,7 +64,7 @@ const Hero = () => {
                   rel="noreferrer"
                   target={"_blank"}
                 >
-                  <img src="/src/assets/contact-links/linkedin.png" alt="" />
+                  <img src="/images/contact-links/linkedin.png" alt="" />
                 </a>
               </li>
               <li>
@@ -73,7 +73,7 @@ const Hero = () => {
                   rel="noreferrer"
                   target={"_blank"}
                 >
-                  <img src="/src/assets/contact-links/twitter.png" alt="" />
+                  <img src="/images/contact-links/twitter.png" alt="" />
                 </a>
               </li>
               <li>
@@ -82,14 +82,14 @@ const Hero = () => {
                   rel="noreferrer"
                   target={"_blank"}
                 >
-                  <img src="/src/assets/contact-links/whatsapp.png" alt="" />
+                  <img src="/images/contact-links/whatsapp.png" alt="" />
                 </a>
               </li>
             </ul>
           </div>
           <div className="my-resume">
             <a
-              href="/src/assets/contact-links/Peter_FullStack_Dev.pdf"
+              href="/images/contact-links/Peter_FullStack_Dev.pdf"
               target={"_blank"}
             >
               Resume
