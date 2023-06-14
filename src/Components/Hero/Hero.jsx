@@ -18,7 +18,7 @@ const Hero = () => {
           <div className="mern-container">
             <img
               className="mern-logo"
-              src="/images/contact-links/80MERN-logo.png"
+              src="/public/images/contact-links/80MERN-logo.png"
               alt="mern-logo"
             />
           </div>
@@ -99,5 +99,5 @@ const Hero = () => {
       </div>
     </>
   );
-}
-export default Hero
+};
+export default Hero;
