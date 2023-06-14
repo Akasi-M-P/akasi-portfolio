@@ -28,10 +28,10 @@ const Hero = () => {
           <div className="role-list">
             <ul>
               <li>
-                <span>🛠️</span>Frontend Developer
+                <span>🛠️</span>Frontend Engineer
               </li>
               <li>
-                <span>🛠️</span>Backend Developer
+                <span>🛠️</span>Backend Engineer
               </li>
               <li>
                 <span>🛠️</span>System Analyst
