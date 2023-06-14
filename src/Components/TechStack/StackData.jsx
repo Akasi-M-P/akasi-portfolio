@@ -52,7 +52,7 @@ export const data = [
   {
     id: "11",
     name: "Github",
-    img: "/images/github.svg",
+    img: "/images/contact-links/github.png",
   },
   {
     id: "12",
