@@ -23,7 +23,10 @@ const Navbar = () => {
             </ul>
           </div>
           <div className="nav-profile-pic">
-            <img src={"/src/images/Peter_clipdrop-relight.jpg"} alt="" />
+            <img
+              src={"https://avatars.githubusercontent.com/u/118350559?v=4"}
+              alt=""
+            />
           </div>
           <div className="nav-burger-menu">
             <Bars4Icon className="h-6 w-4 text-gray-500 burger-menu-icon" />
