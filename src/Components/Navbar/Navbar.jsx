@@ -6,7 +6,9 @@ const Navbar = () => {
     <>
       <header className="nav-header">
         <nav>
-          <div className="nav-logo"><h1>PAM.DEV</h1></div>
+          <div className="nav-logo">
+            <h1>PAM.DEV</h1>
+          </div>
           <div className="nav-links">
             <ul>
               <li>
@@ -22,7 +24,7 @@ const Navbar = () => {
           </div>
           <div className="nav-profile-pic">
             <img
-              src="/src/assets/Peter_clipdrop-relight.jpg"
+              src="/akasi-portfolio/src/assets/Peter_clipdrop-relight.jpg"
               alt=""
             />
           </div>
