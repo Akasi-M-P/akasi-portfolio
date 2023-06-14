@@ -18,7 +18,7 @@ const Hero = () => {
           <div className="mern-container">
             <img
               className="mern-logo"
-              src="./src/images/80MERN-logo.png"
+              src="/akasi-portfolio/src/images/contact-links/80MERN-logo.png"
               alt="mern-logo"
             />
           </div>
