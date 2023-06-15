@@ -1,20 +1,25 @@
 import AOS from "aos";
 import "aos/dist/aos.css"; // You can also use <link> for styles
+import "/src/css/About.css";
 // ..
 AOS.init();
 
 const About = () => {
   return (
     <>
-      <main data-aos="fade-up">
-        <h1>About</h1>
+      <main data-aos="fade-up" className="about-container">
+        <h1>About Me</h1>
         <p>
-          lorem What are values in JavaScript? JavaScript values() | How
-          JavaScript values() Method Works? JavaScript values are the values
-          that comprise values like Booleans, Strings, arrays, numbers, etc. Its
-          behavior is the same as other programming languages as values are
-          possessing some definite properties which is being used as per the
-          requirement and run time environment while executing the JavaScript.
+          As a Software Engineer, I possess a solid educational foundation in
+          Information Technology Management. I obtained a Bachelor of Science
+          degree in Information Technology Management from the University of
+          Professional Studies, along with a Diploma in Information Technology
+          Management from the same institution. Complementing my formal
+          education, I have enriched my skills through various online courses
+          and bootcamps, such as completing The Complete Web Development
+          Bootcamp led by Dr. Angela Yu on Udemy and the Software Engineering
+          and Frontend Engineering program offered by Codetrain Africa and Azubi
+          Africa respectfully.
         </p>
       </main>
     </>
