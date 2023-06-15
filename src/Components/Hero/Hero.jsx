@@ -43,7 +43,7 @@ const Hero = () => {
                 <span>🛠️</span>Information Technology Procurement Manager
               </li>
               <li>
-                <span>🛠️</span>Database Administrator
+                <span>🛠️</span>Information Technology Project Manager
               </li>
             </ul>
           </div>
