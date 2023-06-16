@@ -13,7 +13,7 @@ export const data = [
     name: "Shopping Cart",
     img: "/images/major-projects/shopping-cart.png",
     description:
-      "Built using the powerful combination of React.js and Redux.  The cart app allows you to effortlessly add, remove, and update items in your cart. With the integration of Redux, the app centralizes the state of your cart, ensuring that it remains consistent across different components and screens.",
+      "Built using React.js and Redux. The cart app allows you to effortlessly add, remove, and update items in your cart. With the integration of Redux, the app centralizes the state of your cart, ensuring that it remains consistent across different components and screens.",
     github: "https://github.com/Akasi-M-P/shopping-cart-redux.git",
     preview: "https://akasi-shopping-cart-redux.vercel.app/",
   },
