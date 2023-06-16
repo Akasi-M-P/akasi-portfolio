@@ -5,6 +5,7 @@ import "../src/css/Hero.css"
 import "../src/css/TechStack.css"
 import TechStackItems from "./Components/TechStack/TechStackItems"
 import About from "./About/About";
+import MajorProjects from "./Components/Projects/MajorProjects";
 const App = () => {
   return (
     <>
@@ -14,6 +15,7 @@ const App = () => {
           <Hero />
           <TechStackItems />
           <About />
+          <MajorProjects />
         </div>
       </main>
     </>
