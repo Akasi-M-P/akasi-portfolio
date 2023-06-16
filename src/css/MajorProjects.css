@@ -1,8 +1,7 @@
 /*  480-less    - phone landscape & smaller */
 @media all and (max-width: 480px) {
     .project-container {
-        width: 90%;
-        margin: auto;
+        width: 100%;
         
     }
 
