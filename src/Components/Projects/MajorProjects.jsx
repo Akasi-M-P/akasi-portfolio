@@ -32,7 +32,9 @@ const MajorProjects = () => {
                     href={project.github}
                     rel="noopener noreferrer"
                     target="_blank"
+                    className="github"
                   >
+                    <h6>Github</h6>
                     <img src="/images/contact-links/github.png" alt="github" />
                   </a>
                   <button>

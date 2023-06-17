@@ -31,7 +31,7 @@ export const data = [
     name: "Contact card Application",
     img: "/images/major-projects/contact-card.png",
     description:
-      "Built using the powerful combination of React.js and Bootstrap. Provides a modern and intuitive user interface that allows you to effortlessly create, view, update, and delete contact cards",
+      "Built using the powerful combination of React.js and Bootstrap. Provides a modern and intuitive user interface that allows you to effortlessly create, view, update, and delete contact cards.",
     github: "https://github.com/Akasi-M-P/contact-card.git",
     preview: "https://akasi-react-contact-card.vercel.app/",
   },

@@ -68,8 +68,8 @@
     }
 
     .project-links img {
-        width: 30px;
-        height: 30px;
+        width: 20px;
+        height: 20px;
     }
 
     .project-links button {
@@ -91,6 +91,28 @@
     .project-links h5:hover {
         color: #031b0e;
     }
+
+
+     .github {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        text-decoration-line: none;
+        font-size: 20px;
+        font-weight: 100;
+        border: 1px solid #17352d;
+        height: 30px;
+        width: 90px;
+        padding: 2px;
+        border-radius: 4px;
+    }
+
+    .github:hover {
+        border: 2px solid #c7ccc7;
+    }
+
 
     
 }
@@ -169,8 +191,8 @@
     }
 
     .project-links img {
-        width: 30px;
-        height: 30px;
+        width: 20px;
+        height: 20px;
     }
 
     .project-links button {
@@ -192,6 +214,27 @@
     .project-links h5:hover {
         color: #031b0e;
     }
+
+     .github {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        text-decoration-line: none;
+        font-size: 20px;
+        font-weight: 100;
+        border: 1px solid #17352d;
+        height: 30px;
+        width: 90px;
+        padding: 2px;
+        border-radius: 4px;
+    }
+
+    .github:hover {
+        border: 2px solid #c7ccc7;
+    }
+
 
 }
 
@@ -269,8 +312,8 @@
     }
 
     .project-links img {
-        width: 30px;
-        height: 30px;
+        width: 20px;
+        height: 20px;
     }
 
     .project-links button {
@@ -292,6 +335,27 @@
     .project-links h5:hover {
         color: #031b0e;
     }
+
+     .github {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        text-decoration-line: none;
+        font-size: 20px;
+        font-weight: 100;
+        border: 1px solid #17352d;
+        height: 30px;
+        width: 90px;
+        padding: 2px;
+        border-radius: 4px;
+    }
+
+    .github:hover {
+        border: 2px solid #c7ccc7;
+    }
+
 }
 
 
@@ -392,6 +456,27 @@
     .project-links h5:hover {
         color: #031b0e;
     }
+
+     .github {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        text-decoration-line: none;
+        font-size: 20px;
+        font-weight: 100;
+        border: 1px solid #17352d;
+        height: 30px;
+        width: 90px;
+        padding: 2px;
+        border-radius: 4px;
+    }
+
+    .github:hover {
+        border: 2px solid #c7ccc7;
+    }
+
  }
 
 
@@ -461,15 +546,15 @@
 
     .project-links {
         display: flex;
-        gap: 15px;
+        gap: 25px;
         padding: 10px;
         position: absolute;
         bottom: 0;
     }
 
     .project-links img {
-        width: 30px;
-        height: 30px;
+        width: 20px;
+        height: 20px;
     }
 
     .project-links button {
@@ -491,4 +576,25 @@
     .project-links h5:hover {
         color: #031b0e;
     }
- }
+
+    .github {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        text-decoration-line: none;
+        font-size: 20px;
+        font-weight: 100;
+        border: 1px solid #17352d;
+        height: 30px;
+        width: 90px;
+        padding: 2px;
+        border-radius: 4px;
+    }
+
+    .github:hover {
+        border: 2px solid #c7ccc7;
+    }
+
+}
