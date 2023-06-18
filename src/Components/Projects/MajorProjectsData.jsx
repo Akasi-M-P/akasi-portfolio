@@ -22,7 +22,7 @@ export const data = [
     name: "To-Do List Application",
     img: "/images/major-projects/to-do-list.png",
     description:
-      "Built using Node.js, Express.js, and MongoDB. Designed to enable you create, managing, and organizing your daily tasks.",
+      "Built using Node.js, Express.js, and MongoDB. Designed to enable you create, manage, and organize your daily tasks.",
     github: "https://github.com/Akasi-M-P/Node.js-ToDoList-App.git",
     preview: "https://akasi-todo-app.onrender.com/",
   },
