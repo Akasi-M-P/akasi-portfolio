@@ -43,11 +43,21 @@
     margin: auto;
 }
 
-footer > h3 {
+.footer_message > h3 {
+    width: 90%;
+    font-size: 20px;
     text-align: center;
-    margin-bottom: 100px;
+    margin: 20px auto;
 }
 
+.contactMe_message > a {
+    text-decoration-line: none;
+}
+
+.contactMe_message > a:hover {
+    color: darkgoldenrod;
+    text-decoration-line: underline;
+}
 
 /*  480-less    - phone landscape & smaller */
 @media all and (max-width: 480px) {
@@ -99,3 +109,5 @@ footer > h3 {
 }
 
  }
+
+

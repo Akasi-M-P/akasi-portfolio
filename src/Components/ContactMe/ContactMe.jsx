@@ -8,7 +8,7 @@ const ContactMe = () => {
           <h1>Lets Chat.</h1>
           <p>Tell me about your project.</p>
           <p>Send me an email @</p>
-          <a type="email">awintechworld@gmail.com</a>
+          <a href="mailto:awintechworld@gmail.com">awintechworld@gmail.com</a>
         </div>
         <div className="contactMe_img">
           <img
@@ -19,11 +19,12 @@ const ContactMe = () => {
       </main>
       <div className="footer_message">
         <h3>
-          Built by ME❤️ with blend of passion, dedication, and numerous cups of
-          coffee☕.
+          Built by ME❤️ with a blend of passion, dedication, and numerous cups
+          of coffee☕.
         </h3>
       </div>
     </>
   );
 };
+
 export default ContactMe;
