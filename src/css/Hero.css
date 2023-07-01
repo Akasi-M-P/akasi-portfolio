@@ -115,14 +115,14 @@
         font-family:"Ysabeau Infant";
         font-size: 25px;
         text-align: center;
-        font-weight: light;
+        font-weight: bold;
         
     }
 
     .left-hero p {
         font-family:"Ysabeau Infant";
         font-size: 15px;
-        font-weight: lighter;
+        font-weight: 600;
         text-align: left;
         margin: 20px 20px;
     }
