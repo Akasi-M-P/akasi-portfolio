@@ -10,10 +10,7 @@ const Hero = () => {
           </h2>
           <p>
             A software engineer with deep expertise in the MERN (MongoDB,
-            Express.js, React.js, Node.js) stack, I possess the skills to create
-            dynamic and robust web applications. I combine my love for clean
-            code with an eye for captivating design to craft immersive digital
-            experiences.
+            Express.js, React.js, Node.js) stack.
           </p>
           <div className="mern-container">
             <img

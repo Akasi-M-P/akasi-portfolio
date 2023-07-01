@@ -1,6 +1,6 @@
 /* General Styling */
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400&family=Kanit:wght@500&family=Maven+Pro:wght@500&family=Play&family=Poppins:wght@100;200;400&family=Raleway:wght@300;400;500&family=Ysabeau&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400&family=Kanit:wght@500&family=Maven+Pro:wght@500&family=Play&family=Poppins:wght@100;200;400&family=Raleway:wght@300;400;500&family=Ysabeau&family=Ysabeau+Infant:ital,wght@0,1;1,1&display=swap');
 
 .main-hero {
     width: 100%;
@@ -112,7 +112,7 @@
 }
 
     .left-hero h2 {
-        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-family:"Ysabeau Infant";
         font-size: 25px;
         text-align: center;
         font-weight: light;
@@ -120,7 +120,7 @@
     }
 
     .left-hero p {
-        font-family: "Raleway";
+        font-family:"Ysabeau Infant";
         font-size: 15px;
         font-weight: lighter;
         text-align: left;
