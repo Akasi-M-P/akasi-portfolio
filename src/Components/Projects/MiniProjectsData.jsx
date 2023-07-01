@@ -1,38 +1,53 @@
 export const data = [
   {
     id: "1",
-    name: "Blog Application",
+    name: "Restaurant Website UI",
     img: "/images/mini-projects/aben.png",
     description:
-      "Built using the powerful trio of Node.js, Express.js, and MongoDB, provides you with an environment to create, manage, and publish blog posts.",
+      "Built using HTML and CSS only. It features an appealing design with high-quality images, and showcases the restaurant's menu, highlights its story and values, and incorporates customer reviews for added credibility.",
     github: "https://github.com/Akasi-M-P/Aben-Food",
     preview: "https://lighthearted-sfogliatella-38e7d4.netlify.app/",
   },
   {
     id: "2",
-    name: "Shopping Cart",
+    name: "Tmart eCommerce Website UI",
     img: "/images/mini-projects/tmart.png",
     description:
-      "Built using React.js and Redux. The cart app allows you to effortlessly add, remove, and update items in your cart.",
+      "Showcases a diverse range of products. It highlights the best products, the section for recent news and updates, and an email section.",
     github: "https://github.com/Akasi-M-P/Ecommerce-website",
     preview: "https://zingy-scone-77185d.netlify.app/",
   },
   {
     id: "3",
-    name: "To-Do List Application",
+    name: "Real-Estate Application",
     img: "/images/mini-projects/real-estate.png",
     description:
-      "Built using Node.js, Express.js, and MongoDB. Designed to enable you create, manage, and organize your daily tasks.",
+      "A static application that enables users to rent and buy real-estate buildings.",
     github: "https://github.com/Akasi-M-P/react-real-estate.git",
     preview: "https://mellifluous-lokum-3dc776.netlify.app/",
   },
   {
     id: "4",
-    name: "Contact card Application",
+    name: "Joys News Ghana Clone",
     img: "/images/mini-projects/joy-news.png",
-    description:
-      "Built using the powerful combination of React.js and Bootstrap. Provides a modern and intuitive user interface that allows you to effortlessly create, view, update, and delete contact cards.",
+    description: "A cloned project of the joys news website",
     github: "https://github.com/Akasi-M-P/News-website.git",
     preview: "https://teal-kelpie-3d76fd.netlify.app/",
+  },
+  {
+    id: "4",
+    name: "Simple Weather Application",
+    img: "/images/mini-projects/weather-app.png",
+    description: "Built using Node.js, Express.js, and OpenWeather API.",
+    github: "https://github.com/Akasi-M-P/nodejs-weather-app.git",
+    preview: "https://akasi-weather-app.onrender.com/",
+  },
+  {
+    id: "4",
+    name: "Newsletter Application",
+    img: "/images/mini-projects/news-letter.png",
+    description: "Built using Node.js, Express.js, and Mailchimp API.",
+    github: "https://github.com/Akasi-M-P/Newsletter-SignUp.git",
+    preview: "https://akasi-newsletter.onrender.com/",
   },
 ];
