@@ -1,7 +1,7 @@
 /* General Styling */
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400&family=Kanit:wght@500&family=Maven+Pro:wght@500&family=Play&family=Poppins:wght@100;200;400&family=Raleway:wght@300;400;500&family=Ysabeau&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400&family=Kanit:wght@500&family=Maven+Pro:wght@500&family=Play&family=Poppins:wght@100;200;400&family=Raleway:wght@300;400;500&family=Ysabeau&family=Ysabeau+Infant:ital,wght@0,1;1,1&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400&family=Kanit:wght@500&family=Maven+Pro:wght@500&family=Play&family=Poppins:wght@100;200;400&family=Raleway:wght@300;400;500&family=Ysabeau&family=Ysabeau+Infant:ital,wght@0,1;0,100;0,300;0,400;0,700;1,1&display=swap');
 .main-hero {
     width: 100%;
     display: flex;
@@ -122,7 +122,7 @@
     .left-hero p {
         font-family:"Ysabeau Infant";
         font-size: 15px;
-        font-weight: 600;
+        font-weight: 400;
         text-align: left;
         margin: 20px 20px;
     }
