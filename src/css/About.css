@@ -10,13 +10,14 @@
     .about-container h1 {
         text-align: center;
         color: rgba(5, 221, 149, 0.8);
-        font-family: "Poppins", sans-serif;
+        font-family:"Ysabeau Infant";
 
     }
 
     .about-container p {
         text-align: center;
         font-size: 15px;
+        font-family:"Ysabeau Infant";
     }
 }
 
