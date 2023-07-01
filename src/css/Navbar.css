@@ -1,13 +1,18 @@
+
+
 /* Navbar Styling */
 header {
-  background-color:  #080202;
+    background-color:  #080202;
     border-bottom: 2px solid rgba(5, 221, 149, 0.8);;
     border-top: 2px solid rgba(5, 221, 149, 0.8);
+    position: sticky;
 }
 header .burger-menu-icon {
     width: 40px;
     color: azure;
 }
+
+
 
 .nav-logo h1{
     height: 60px;

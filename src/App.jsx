@@ -7,6 +7,7 @@ import TechStackItems from "./Components/TechStack/TechStackItems"
 import About from "./About/About";
 import MajorProjects from "./Components/Projects/MajorProjects";
 import MiniProjects from "./Components/Projects/MiniProjects";
+import ContactMe from "./Components/ContactMe/ContactMe";
 const App = () => {
   return (
     <>
@@ -18,6 +19,7 @@ const App = () => {
           <About />
           <MajorProjects />
           <MiniProjects />
+          <ContactMe />
         </div>
       </main>
     </>
