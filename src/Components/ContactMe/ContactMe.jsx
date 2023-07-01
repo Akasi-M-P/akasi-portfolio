@@ -17,7 +17,7 @@ const ContactMe = () => {
           />
         </div>
       </main>
-      <div>
+      <div className="footer_message">
         <h3>
           Built by ME❤️ with blend of passion, dedication, and numerous cups of
           coffee☕.
