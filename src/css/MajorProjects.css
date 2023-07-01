@@ -12,6 +12,7 @@
     .major_projects-header h3 {
         font-size: 20px;
         text-align: center;
+        font-family:"Ysabeau Infant";
     }
 
     .project-item-container {
@@ -59,6 +60,7 @@
         line-height: 18px;
         font-weight: 300;
         word-spacing: 1px;
+        font-family:"Ysabeau Infant";
     }
 
     .project-links {
