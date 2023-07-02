@@ -35,7 +35,7 @@ header .burger-menu-icon {
 
 .nav-links ul li a {
     font-size: 20px;
-    
+    cursor: pointer;
 }
 
 /*  480-less    - phone landscape & smaller */
