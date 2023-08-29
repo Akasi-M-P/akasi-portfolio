@@ -38,6 +38,14 @@ header .burger-menu-icon {
     cursor: pointer;
 }
 
+.burger {
+    display: none;
+}
+
+.nav__links {
+    display: none;
+}
+
 /*  480-less    - phone landscape & smaller */
 @media all and (max-width: 480px) { 
     nav{
