@@ -2,7 +2,7 @@ import { Bars4Icon } from "@heroicons/react/24/outline";
 import "/src/css/Navbar.css";
 import { Link } from "react-router-dom";
 import { Link as ScrollLink } from "react-scroll";
-import { Burger } from "../Burger";
+
 
 const Navbar = () => {
   return (
@@ -76,7 +76,6 @@ const Navbar = () => {
           <div className="line3"></div>
         </div>
       </nav>
-      <Burger />
     </header>
   );
 };

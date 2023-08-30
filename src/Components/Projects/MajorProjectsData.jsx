@@ -1,6 +1,15 @@
 export const data = [
   {
     id: "1",
+    name: "Netflix Clone",
+    img: "/images/major-projects/netflix-clone.png",
+    description:
+      "Netflix clone built with REACT.JS (Redux, Firestore, Google Auth)",
+    github: "https://github.com/Akasi-M-P/netflix-app.git",
+    preview: "https://akasi-mp-8lcv.vercel.app/",
+  },
+  {
+    id: "2",
     name: "Blog Application",
     img: "/images/major-projects/blog-app.png",
     description:
@@ -9,7 +18,16 @@ export const data = [
     preview: "https://akasi-blog-app.onrender.com/",
   },
   {
-    id: "2",
+    id: "3",
+    name: "React To-do App",
+    img: "/images/major-projects/react-todo.png",
+    description:
+      "Built using React.js and Bootstrap to enable you create, manage, and organize your daily tasks with date and time selection.",
+    github: "https://github.com/Akasi-M-P/react-todo.git",
+    preview: "https://react-todo-eight-eta.vercel.app/",
+  },
+  {
+    id: "4",
     name: "Shopping Cart",
     img: "/images/major-projects/shopping-cart.png",
     description:
@@ -18,7 +36,7 @@ export const data = [
     preview: "https://akasi-shopping-cart-redux.vercel.app/",
   },
   {
-    id: "3",
+    id: "5",
     name: "To-Do List Application",
     img: "/images/major-projects/to-do-list.png",
     description:
@@ -27,7 +45,7 @@ export const data = [
     preview: "https://akasi-todo-app.onrender.com/",
   },
   {
-    id: "4",
+    id: "6",
     name: "Contact card Application",
     img: "/images/major-projects/contact-card.png",
     description:
